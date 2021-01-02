@@ -1,7 +1,3 @@
-# HangManGame
-Basic ASCII ART GAME 
-<video width="320" height="240" controls>
-  <source src="video/Screencast from Sunday 03 January 2021 12:04:50  IST.webm" type="video/webm">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+<h1> HangMan Game </h1>
+<h3> Guess the word or get hung </h3>
+<img src="video/Screencast-from-Sunday-03-Januar.gif" alt="vid">
